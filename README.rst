@@ -25,3 +25,6 @@ Quick start
 
 
 4. You will find the swagger api documentation in  `/api-doc/`.
+
+
+.. image:: screenshots/1.png
