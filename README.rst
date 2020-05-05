@@ -8,6 +8,11 @@ Django swagger UI is a viewer for Swagger YAML files as html.  based on `swagger
 Quick start
 -----------
 
+1. Install the lib: 
+
+     pip install django-swagger-ui
+
+
 1. Add "swagger_ui" to your ``INSTALLED_APPS`` setting like this::
 
     INSTALLED_APPS = [
